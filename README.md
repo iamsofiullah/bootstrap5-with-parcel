@@ -2,7 +2,8 @@
 
 <p align="center">Just clone this shit and start coding your awesome bootstrap projects. If you are a git pro, than you already know what to do! If you are a noob, I am going to spoon feed this to you. The process is down below.😄</p>
 
-##Getting Started
+<!-- GETTING STARTED -->
+## Getting Started
 
 These are some simple steps you need to follow.
 Follow this currectly and you will have your setup ready in no time.
