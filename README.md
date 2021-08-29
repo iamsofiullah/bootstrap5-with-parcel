@@ -1,7 +1,8 @@
-<h1 align="center">Simple Bootstrap 5 Setup With SASS & Parcel For Lazy Asses!</h1>
-
+<h2 align="center">Simple Bootstrap 5 Setup With SASS & Parcel For Lazy Asses!</h1>
+<br />
 <p align="center">Just clone this shit and start coding your awesome bootstrap projects. If you are a git pro, than you already know what to do! If you are a noob, I am going to spoon feed this to you. The process is down below.😄</p>
-
+<br />
+<br />
 <!-- GETTING STARTED -->
 ## Getting Started
 
