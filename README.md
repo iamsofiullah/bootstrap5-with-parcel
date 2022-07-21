@@ -33,8 +33,8 @@ Follow this currectly and you will have your setup ready in no time.
    ```
    <br />
    <br />
-   <!-- Course -->
-   ##Complete Guide to Bootstrap 5 with 6 Real World Projects
+<!-- Course -->
+##Complete Guide to Bootstrap 5 with 6 Real World Projects
    
-   Aww yeah, you successfully made this setup work. Enroll in my complete <strong><a href="https://www.udemy.com/course/complete-guide-to-bootstrap/?referralCode=C33D50A3EFA30E6CC6CE">BOOTSTRAP 5 COURSE</a></strong> on Udemy. We will complete 6 projects in this course which will make you a    pro bootstrap 5 developer for sure.😉
+Aww yeah, you successfully made this setup work. Enroll in my complete <strong><a href="https://www.udemy.com/course/complete-guide-to-bootstrap/?referralCode=C33D50A3EFA30E6CC6CE">BOOTSTRAP 5 COURSE</a></strong> on Udemy. We will complete 6 projects in this course which will make you a pro bootstrap 5 developer for sure.😉
    
