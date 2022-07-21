@@ -1,23 +1,22 @@
 {
-  "name": "boostrap5-starter",
+  "name": "bootstrap5-with-parcel",
   "version": "1.0.0",
-  "description": "",
+  "description": "Working environment with bootstrap5 and parcel",
   "main": "index.js",
   "scripts": {
     "dev": "parcel ./src/index.html",
     "prebuild": "npx rimraf build",
     "build": "parcel build --public-url ./ ./src/index.html --experimental-scope-hoisting --out-dir build --no-minify"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Sofiullah",
   "license": "ISC",
   "dependencies": {
-    "@popperjs/core": "^2.9.3",
-    "bootstrap": "^5.1.0"
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.2.0"
   },
   "devDependencies": {
-    "cssnano": "^5.0.8",
-    "postcss": "^8.3.6",
-    "sass": "^1.38.2"
+    "cssnano": "^5.1.12",
+    "postcss": "^8.4.14",
+    "sass": "^1.53.0"
   }
 }
